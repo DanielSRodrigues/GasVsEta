@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GasVsEta</string>
+    <string name="Gas">Gasoline</string>
+    <string name="Etanol">Etanol</string>
+    <string name="Calc">Calc</string>
+    <string name="msg_bestchoice">"The best choice is: "</string>
+    <string name="msg_camposobrigatorios">The both values ​​are required.</string>
+</resources>

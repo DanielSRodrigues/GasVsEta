@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Gas">Gasonlina</string>
+    <string name="Etanol">Alcool</string>
+    <string name="Calc">Calc</string>
+    <string name="msg_bestchoice">"A melhor escolha é: "</string>
+    <string name="msg_camposobrigatorios">Os dois valores são obrigatórios.</string>
+</resources>
